@@ -1,0 +1,35 @@
+<script src="https://js.hsforms.net/forms/v2.js"></script>
+<script>
+  hbspt.forms.create({
+    portalId: "YOUR_PORTAL_ID",
+    formId: "YOUR_FORM_ID",
+onFormReady: function($form) {
+  $form.on('submit', function(event) {
+    var correctSvgValue = document.getElementById('correct-svg-contact').value;
+      var clickedSvgValue = document.getElementById('clicked-svg-contact').value;
+      var errorValue = document.getElementById('cf7-response-contact');
+
+    if (correctSvgValue !== clickedSvgValue) {
+      event.preventDefault(); 
+      shuffleSvgsContact(); 
+      errorValue.textContent = 'You selected the wrong figure. Please try again.';
+      return false; 
+    }
+    errorValue.textContent = '';
+    
+  });
+}
+  });
+</script>
+
+<div id="random-svg-container-contact">
+  <p id="svg-instruction-contact">Please prove you are human by selecting the:</p>
+  <div class="svg_list">
+  <div class="random-svg" id="svg_contact1"></div>
+  <div class="random-svg" id="svg_contact2"></div>
+  <div class="random-svg" id="svg_contact3"></div>
+  </div>
+</div>
+    <input type="hidden" id="correct-svg-contact" name="correct_svg" />
+<input type="hidden" id="clicked-svg-contact" name="clicked_svg" />
+<div id="cf7-response-contact"></div>
