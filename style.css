@@ -1,0 +1,280 @@
+
+
+
+div#random-svg-container-contact {
+    margin-bottom: 125px;
+}
+.capcha_hab div#cf7-response-contact {
+    text-align: center;
+    margin: auto;
+}
+        span.wpcf7-form-control-wrap.kc_captcha.cf7ic-toggle {
+            z-index: 9999;
+        }
+		span.wpcf7-not-valid-tip {
+    margin-top: 10px;
+}
+ fieldset.form-columns-1 {
+    margin-top: 24px!important;
+	min-width: 100% !important;
+    margin-bottom: 25px!important;
+}
+fieldset.form-columns-2 {
+    min-width: 100% !important;
+}
+input.hs-button.primary.large {
+    font-family: 'Roboto', Sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    background-color: #00CECE;
+    color: #ffffff;
+    border: 0px !important;
+    padding: 15px 40px;
+}
+[data-name='checkbox-216'] span.wpcf7-not-valid-tip {
+    margin-top: 0;
+}
+.hbspt-form {
+    margin: auto;
+    /* background: #fff; */
+    /* border-radius: 8px 8px 8px 8px; */
+    /* box-shadow: 0px 7px 25px 0px rgba(0, 0, 0, 0.16); */
+}
+
+fieldset.form-columns-1 {
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+fieldset.form-columns-1 {
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.hs_contact.hs-contact.hs-fieldtype-text.field.hs-form-field {}
+.input input.hs-input {
+    width: 100%;
+}
+fieldset.form-columns-1 {
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.hs-input {
+    width: 100%;
+    border: 1px solid #666;
+    border-radius: 3px;
+    padding: .5rem 1rem;
+    transition: all .3s;
+}
+
+ul.inputs-list {
+    max-width: 100%;
+    list-style: none;
+    display: flex;
+    padding: 0;
+    padding-bottom: 5px;
+	margin-top: -10px;
+    flex-wrap: wrap;
+}
+
+ul.inputs-list.multi-container label {
+    display: flex;
+    align-items: flex-end;
+    /* margin-right: 20px; */
+    width: 100%;
+    flex-wrap: nowrap;
+    padding-top: 15px;
+    padding-right: 15px;
+}
+
+ul.inputs-list.multi-container label span {
+    padding-left: 5px;
+}
+
+.hs-error-msg {
+    color: red;
+}
+
+
+.hs-form-booleancheckbox-display span {
+    color: #2e2e2e;
+    font-size: 18px;
+    padding-left: 10px;
+}
+
+
+.hbspt-form form div > label {
+    font-family: 'Roboto', Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #009a9a;
+    margin: 10px 0;
+}
+
+
+ul.no-list {
+    list-style-type: none;
+    padding: 0;
+}
+span.form-required {
+margin-bottom: 10px;
+}
+span.form-required.non-top {
+    margin-bottom: -5px;
+}
+.block-line {
+    display: flex;
+}
+input.wpcf7-form-control.wpcf7-email.wpcf7-validates-as-required.wpcf7-text.wpcf7-validates-as-email:focus-visible {
+    outline: none;
+    border: none;
+}
+input.wpcf7-form-control.wpcf7-email.wpcf7-validates-as-required.wpcf7-text.wpcf7-validates-as-email {
+    padding-right: 55px;
+}
+.random-svg {
+    width: 53px;
+    display: flex;
+    height: 55px;
+    text-align: center;
+    cursor: pointer;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+  }
+ 
+  .random-svg-contact {
+    width: 53px;
+    display: flex;
+    height: 55px;
+    text-align: center;
+    cursor: pointer;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+  }
+.random-svg svg {
+    padding: 5px;
+}
+  #svg-instruction {
+    font-size: 16px;
+  }
+p#svg-instruction {
+    display: block;
+}
+  .highlight {
+    color: red;
+    font-weight: bold;
+  }
+  div#random-svg-container {
+       background: #fff;
+      display: none;
+    border-radius: 20px;
+    margin-top: 30px;
+    width: 95%;
+    padding: 5px 0px;
+    border: 1px solid;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+button#footer-submit-btn {
+    width: 100%;
+    margin: auto;
+    margin-top: 10px;
+}
+ div#random-svg-container-contact {
+       background: #fff;
+      display: flex;
+    border-radius: 20px;
+    margin-top: 30px;
+    width: 95%;
+    padding: 5px 0px;
+    border: 1px solid;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.active-svg {
+    border: 2px solid red;
+}
+
+.svg_list {
+    display: flex;
+    align-items: flex-start;
+}
+div#cf7-response {
+    color: red;
+}
+.hide-btn {
+display: none;
+}
+button#footer-submit-btn-contact {
+    font-family: 'Roboto', Sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    background-color: #00CECE;
+    color: #ffffff;
+    border: 0px !important;
+    padding: 15px 40px;
+}
+button#footer-submit-btn {
+    font-family: 'Poppins', Sans-serif !important;
+    font-size: 16px !important;
+    font-weight: 500 !important;
+    line-height: 18px !important;
+    background-color: transparent !important;
+    background-image: linear-gradient(180deg, #00CECE 0%, #009A9A 100%) !important;
+    border-radius: 100px 100px 100px 100px !important;
+    padding: 16px 40px 15px 40px !important;
+    transition: .3s ease;
+    color: #fff;
+    border: #00CECE;
+    width: 30%;
+    margin-left: -50px;
+    display: inline-block;
+    z-index: 9999;
+    position: relative;
+    padding-top: 35px;
+}
+div#cf7-response-contact {
+    color: red;
+    margin-bottom: -13px;
+    margin-top: -80px;
+    font-weight: 400;
+    font-size: 1.1em;
+    font-family: 'Roboto', Sans-serif;
+}
+input#send-footer {
+    display: none!important;
+}
+form.wpcf7-form.init {
+width: 100%!important;
+}
+@media (min-width: 1000px) {
+    div#random-svg-container {
+        width: 99%;
+    }
+	div#random-svg-container-contact {
+                width: 90%;
+        margin: auto;
+        margin-top: 35px;
+    }
+	.capcha_hab div#random-svg-container-contact {
+    width: 100%;
+}
+}
+@media (max-width: 767px) {
+    div#random-svg-container {
+    margin-top: 20px;
+    width: 100%;
+    }
+	.capcha_hab div#random-svg-container-contact {
+    width: 100%;
+	margin-bottom: 20px;
+}
+	div#random-svg-container-contact {
+    margin-top: 20px;
+    width: 90%;
+    }
+}
